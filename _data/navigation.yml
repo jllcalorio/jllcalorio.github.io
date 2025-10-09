@@ -11,10 +11,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Talks and Presentations"
     url: /talks/
 
-  - title: "Teaching"
+  - title: "R Packages"
     url: /teaching/
 
   - title: "Portfolio"
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
