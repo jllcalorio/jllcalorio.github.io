@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "John Lennon L. Calorio / Portfolio"
+title                    : "John Lennon Calorio"
 title_separator          : "-"
-name                     : &name "John Lennon L. Calorio"
-description              : &description "Into AI and cats ;)"
+name                     : &name "John Lennon Calorio"
+description              : "Into AI and cats ;)" # &description "Into AI and cats ;)"
 url                      : https://jllcalorio.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "John Lennon L. Calorio (sidebar)"
+  name             : "John Lennon Calorio"
   pronouns         : "he/him" # example: "she/her"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Davao City, Philippines"
@@ -68,7 +68,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "jllcalorio" # URL
+  telegram         : "@jllcalorio" # URL
   tumblr           : # Username
   twitter          : "jllcalorio" # Username for X / Twitter
   vine             : # Username
