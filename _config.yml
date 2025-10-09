@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lennon's Website"
+title                    : "Lennon's Homepage"
 title_separator          : "-"
 name                     : &name "John Lennon Calorio"
 description              : "Into AI and cats ;)" # &description "Into AI and cats ;)"
