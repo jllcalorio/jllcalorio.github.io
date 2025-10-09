@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "John Lennon Calorio"
+title                    : "Lennon's Website"
 title_separator          : "-"
 name                     : &name "John Lennon Calorio"
 description              : "Into AI and cats ;)" # &description "Into AI and cats ;)"
@@ -25,10 +25,10 @@ author:
   avatar           : "profile2.png"
   name             : "John Lennon Calorio"
   pronouns         : "he/him" # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Health Data Scientist and Bioinformatician"
   location         : "Davao City, Philippines"
   employer         : "Davao Medical School Foundation, Inc."
-  uri              : # URL
+  uri              : "https://www.dmsf.edu.ph/"
   email            : "jllcalorio@gmail.com"
 
   # Academic websites
