@@ -12,7 +12,8 @@ main:
     url: /files/Calorio_CV.pdf
 
   - title: "Publications"
-    url: /publications/
+    #url: /publications/
+    url: "https://www.researchgate.net/profile/John-Lennon-Calorio-2/research"
 
   - title: "Talks and Presentations"
     url: /talks/
