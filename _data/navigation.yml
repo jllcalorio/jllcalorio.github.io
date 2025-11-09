@@ -19,7 +19,8 @@ main:
     url: /talks/
 
   - title: "R Packages"
-    url: /teaching/
+    #url: /teaching/
+    url: /r-packages/
 
   - title: "Portfolio"
     url: /portfolio/
